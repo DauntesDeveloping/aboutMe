@@ -1,10 +1,9 @@
-
 p{
     color: #ABC4AB;
     text-align: center;
 }
 
-h2, h3, h4{
+h1,h2, h3, h4{
     color: #ABC4AB;
     text-align: center;
 }
@@ -24,6 +23,7 @@ header{
     width: 500px;
     margin: auto;
     padding: 20px;
+    height: auto;
 }
 hr{
     margin: auto;
@@ -34,6 +34,7 @@ hr{
 img{
     border-radius: 50%;
 }
-ul{
+ul, li{
     color: #ABC4AB;
+    font-size: 20px;
 }
